@@ -59,9 +59,13 @@ The workflow I followed throughout the projects:
 
 ---
 ## 📁 Repository Structure
+
 ├── Project_1_Investigate_Dataset/
+
 ├── Project_2_Data_Wrangling/
+
 ├── Project_3_Communicate_Data_Findings/
+
 └── README.md
 
 ---
