@@ -72,6 +72,6 @@ The workflow I followed throughout the projects:
 ---
 
 ## 🔗 Certificate
-[!https://www.udacity.com/certificate/e/37481cd6-e1a5-11f0-b6df-a7f4f7bf0a71]
+[https://www.udacity.com/certificate/e/37481cd6-e1a5-11f0-b6df-a7f4f7bf0a71]
 
 ---
